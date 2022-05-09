@@ -44,3 +44,10 @@ header{
     background-color: aquamarine;
     color: white;
 }
+
+.container{
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+    display: flex;
+}
