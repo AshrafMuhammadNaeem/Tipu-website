@@ -45,6 +45,9 @@ header{
     color: white;
 }
 
+/* .navbar .flex{
+    justify-content: center;
+} */
 .container{
     margin: 0 auto;
     overflow: auto;
@@ -54,4 +57,17 @@ header{
 
 .flex{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    
+}
+.container ul{
+    display: flex;
+}
+
+.tab a{
+    color: grey;
+    margin-right: 10px;
+    padding: ;
 }
