@@ -1,2 +1,14 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Flex:opsz,wght@8..144,300&display=swap'); */
 /* shift alt down for windows and shift option down for Mac */
+/*1- first create html basic page and link the icons fonts link to create special icons inside head tag */
+/*2- Then in th body tag create header tag with class name nad in that make h1 of Tipu: then   */
+/* 3- Now in the header create div tag with class name and in div create ul tag with class name all the these are in header tag */
+/* 4- In ul tag create li elements with tabs that contains Home page link and Features link and Docs link with anchor tag */
+/* 5- Now do the Css styling but first import the required font from google fonts */
+/* 6- Use universal selector for styling then go step by step to other elements */
+/* 7- use another class flex in the heaader for display flex <header class='container flex'> */
+/* 8- then apply flex to ul with its parent class container of header */
+/* 9- use pseudo class for hover effect */
+/* 10- Now create an other html element section that will show the texts and webpage info under the navbar 
+this will be in the body element but under header element 
+11- Then in the section element create a div with class container and utility class grid*/
