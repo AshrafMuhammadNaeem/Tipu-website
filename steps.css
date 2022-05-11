@@ -11,4 +11,6 @@
 /* 9- use pseudo class for hover effect */
 /* 10- Now create an other html element section that will show the texts and webpage info under the navbar 
 this will be in the body element but under header element 
-11- Then in the section element create a div with class container and utility class grid*/
+11- Then in the section element create a div with class container and utility class grid
+12- Now in this grid dive we are gonna have 2 divs that will be grid items inside the grid container with 
+class showtext-text*/
