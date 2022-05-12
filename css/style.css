@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
 
+:root{
+    --primary-color: aquamarine;
+
+}
 *{
     box-sizing: border-box;
     padding: 0;
@@ -41,7 +45,7 @@ img{
 }
 
 header{
-    background-color: aquamarine;
+    background-color: var(--primary-color);
     color: white;
 }
 
@@ -75,4 +79,15 @@ header{
 .tab a:hover{
     background-color: blueviolet;
     border-bottom: #333 solid;
+}
+
+/* ShowText css */
+
+.showtext{
+    background-color: var(--primary-color);
+    height: 300px;
+    border: #333 solid;
+    margin-top: 10px;
+    color: black;
+    position:relative;
 }
