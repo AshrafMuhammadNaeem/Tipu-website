@@ -13,4 +13,7 @@
 this will be in the body element but under header element 
 11- Then in the section element create a div with class container and utility class grid
 12- Now in this grid dive we are gonna have 2 divs that will be grid items inside the grid container with 
-class showtext-text*/
+class showtext-text
+13- first div will be for demo request with a class name
+14- 2nd dive will be a form with input field and submit button with class form control
+15- now create custom properties of css by using :root selector*/
