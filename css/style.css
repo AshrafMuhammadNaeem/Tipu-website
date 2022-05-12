@@ -91,3 +91,12 @@ header{
     color: black;
     position:relative;
 }
+
+.showtext h1{
+    font-size: 35px;
+}
+
+/* now use utility class of grid to make div display grid */
+.grid{
+    display: grid;
+}
