@@ -16,4 +16,25 @@ this will be in the body element but under header element
 class showtext-text
 13- first div will be for demo request with a class name
 14- 2nd dive will be a form with input field and submit button with class form control
-15- now create custom properties of css by using :root selector*/
+15- now create custom properties of css by using :root selector
+16- Then apply these properties to showtext section with background color
+17- Then apply display grid to utility class grid and furter apply all grid properties
+18- Now use section element first class named showtext with grid to apply grid-template-columns proprties
+that will make the left column less wider
+19- Now start with utility class card to style the form input and submit buttons
+The box-shadow property attaches one or more shadows to an element.
+
+CSS Syntax
+box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
+
+Example
+
+Add a blur effect to the shadow:
+#example1 {
+  box-shadow: 10px 10px 8px #888888;
+} 
+
+
+
+
+*/
