@@ -34,6 +34,22 @@ Add a blur effect to the shadow:
   box-shadow: 10px 10px 8px #888888;
 } 
 
+20- when applying grid-column property to only div container the overflow property does not work but iit works
+for whole section class showtext.
+
+21- z-index Usage The z-index property specifies the stack order of an element.
+
+An element with greater stack order is always in front of an element with a lower stack order.
+
+Note: z-index only works on positioned elements (position: absolute, position: relative, position: fixed, or position: sticky) and flex items (elements that are direct children of display:flex elements).
+
+Note: If two positioned elements overlap without a z-index specified, the element positioned last in the HTML code will be shown on top. 
+
+22- justify-self
+
+The CSS justify-self property sets the way a box is justified inside its alignment container along the appropriate axis.
+
+
 
 
 
