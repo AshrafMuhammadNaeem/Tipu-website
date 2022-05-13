@@ -113,6 +113,11 @@ header{
     justify-self: flex-end;
 }
 
+/* 4- Now we will style input elements  */
+.form-control{
+    margin: 25px 0;
+}
+
 
 /* now use utility class of grid to make div display grid */
 .grid{
