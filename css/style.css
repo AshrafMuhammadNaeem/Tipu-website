@@ -118,6 +118,29 @@ header{
     margin: 25px 0;
 }
 
+/*5- Now to target input elements without buttons we use type selector as */
+.showtext-form input[type= 'text'],
+.showtext-form input[type= 'email'] {
+    border: 0;
+    border-bottom: 2px solid salmon;
+    width: 100%;
+    font-size: 15px;
+    padding: 4px;
+}
+/*6- Now to get rid of the outline/border when clicked on input field use pseudo class */
+.showtext-form input:focus{
+    outline: none;
+}
+/* 7- now style the button */
+
+.showtext-form input[type='submit']{
+    background-color: aquamarine;
+    font-size: 30px;
+    padding: 5px;
+    border: 0;
+    border-radius: 15px;
+
+}
 
 /* now use utility class of grid to make div display grid */
 .grid{
