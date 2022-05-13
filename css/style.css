@@ -141,8 +141,17 @@ header{
     padding: 5px;
     border: 0;
     border-radius: 15px;
-
+    transition: 2s;
 }
+
+
+/* 9- creating hover effect on button with pseudo class */
+.btn:hover{
+    width: 50%;
+    background-color: blue;
+    /* transform: scale(1, 0.8); */
+}
+    
 
 /* 8- we have alo set class of btn-outline to further read para so add styling as */
 .btn-outline{
