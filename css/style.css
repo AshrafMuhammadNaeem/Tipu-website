@@ -129,8 +129,8 @@ header{
     background-color: white;
     transform: skewY(-4deg);
     -webkit-transform: skewY(-4deg);
-    transform: skewY(-4deg);
-    transform: skewY(-4deg);
+    -moz-transform: skewY(-4deg);
+    -ms-transform: skewY(-4deg);
 }
 /*5- Now to target input elements without buttons we use type selector as */
 .showtext-form input[type= 'text'],
