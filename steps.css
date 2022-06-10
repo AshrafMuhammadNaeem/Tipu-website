@@ -1,7 +1,7 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Flex:opsz,wght@8..144,300&display=swap'); */
 /* shift alt down for windows and shift option down for Mac */
 /*1- first create html basic page and link the icons fonts link to create special icons inside head tag */
-/*2- Then in th body tag create header tag with class name nad in that make h1 of Tipu: then   */
+/*2- Then in the body tag create header tag with class name and in that make h1 of Tipu: then   */
 /* 3- Now in the header create div tag with class name and in div create ul tag with class name all the these are in header tag */
 /* 4- In ul tag create li elements with tabs that contains Home page link and Features link and Docs link with anchor tag */
 /* 5- Now do the Css styling but first import the required font from google fonts */
