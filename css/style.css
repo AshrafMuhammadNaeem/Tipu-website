@@ -194,3 +194,100 @@ header{
     padding: 15px;
     margin: 10px;
 }
+
+/* Stats section */
+
+.stats{
+    margin: 120px 0;
+    /* also can use padding-top with 100px */
+}
+
+.grid-3{
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+
+.stats .stats-heading {
+
+    /* I solved this problem of margin not being applied to text */
+    max-width: 500px;
+    margin: auto;
+    
+    
+}
+
+.stats .grid h3{
+    font-size: 35px;
+}
+
+.stats .grid p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* stats utilities */
+.text-center{
+    text-align: center;
+}
+
+.my-1{
+    margin: 1rem 0;
+}
+.my-2{
+    margin: 1.5rem 0;
+}
+
+.my-3{
+    margin: 2rem 0;
+}
+
+.my-4{
+    margin: 3rem 0;
+}
+
+.m-1{
+    margin: 1rem 0;
+}
+.m-2{
+    margin: 1.5rem 0;
+}
+
+.m-3{
+    margin: 2rem 0;
+}
+
+.m-4{
+    margin: 3rem 0;
+}
+
+/* padding */
+
+.py-1{
+    padding: 1rem 0;
+}
+.py-2{
+    padding: 1.5rem 0;
+}
+
+.py-3{
+    padding: 2rem 0;
+}
+
+.py-4{
+    padding: 3rem 0;
+}
+
+.p-1{
+    padding: 1rem 0;
+}
+.p-2{
+    padding: 1.5rem 0;
+}
+
+.p-3{
+    padding: 2rem 0;
+}
+
+.p-4{
+    padding: 3rem 0;
+}
