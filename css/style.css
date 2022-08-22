@@ -364,6 +364,10 @@ header{
 .social a{
     color: white;
 }
+
+.social i{
+    margin: 0 10px;
+}
 /* text-sizes */
 
 .lead{
