@@ -360,7 +360,10 @@ header{
 }
 
 /* Footer */
-
+.bg-dark a,
+.social a{
+    color: white;
+}
 /* text-sizes */
 
 .lead{
