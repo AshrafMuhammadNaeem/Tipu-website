@@ -244,9 +244,9 @@ header{
     
 /* cloud-hosting */
 
-.cloud-hosting{
+/* .cloud-hosting{
     background-color: var(--dark-color);
-}
+} */
 
 /* Languages */
 .languages .flex{
@@ -318,4 +318,26 @@ header{
 
 .p-4{
     padding: 3rem 0;
+}
+
+/* background colors */
+
+.bg-primary,
+.btn-primary{
+    background-color: var(--primary-color);
+}
+
+.bg-secondary,
+.btn-secondary{
+    background-color: var(--secondary-color);
+}
+
+.bg-light,
+.btn-light{
+    background-color: var(--light-color);
+}
+
+.bg-dark,
+.btn-dark{
+    background-color: var(--dark-color);
 }
