@@ -406,6 +406,25 @@ header{
 
     }
 
+    .showtext-form{
+        justify-self: center;
+        margin: auto;
+    }
+
+    .showtext{
+        height: auto;
+    }
+
+    .showtext-text{
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .cli .grid > *:first-child{
+        grid-column: 1;
+        grid-row: 1; 
+    }
+
 }
 
 /*  Mobile and under */
