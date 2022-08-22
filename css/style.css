@@ -396,6 +396,16 @@ header{
 /* Tablet and under */
 @media(max-width: 768px){
 
+     .grid,
+    .showtext .grid,
+    .stats .grid,
+    .cli .grid,
+    .cloud-hosting .grid{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+
+    }
+
 }
 
 /*  Mobile and under */
