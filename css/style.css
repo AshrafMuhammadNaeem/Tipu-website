@@ -245,7 +245,12 @@ header{
 /* cloud-hosting */
 
 .cloud-hosting{
-    background-color: lightblue;
+    background-color: var(--dark-color);
+}
+
+/* Languages */
+.languages .flex{
+    flex-wrap: wrap;
 }
 
 /* stats utilities */
