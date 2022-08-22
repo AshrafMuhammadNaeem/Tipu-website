@@ -389,3 +389,15 @@ header{
 .xl{
     font-size: 4rem;
 }
+
+
+/* Responsive Design */
+
+/* Tablet and under */
+@media(max-width: 768px){
+
+}
+
+/*  Mobile and under */
+
+@media(max-width: 500px)
