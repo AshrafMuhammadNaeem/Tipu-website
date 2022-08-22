@@ -70,7 +70,7 @@ header{
     height: 100%;
     
 }
-.container ul{
+.tabs ul{
     display: flex;
 }
 
@@ -356,6 +356,7 @@ header{
 .bg-dark,
 .btn-dark{
     background-color: var(--dark-color);
+    color: white;
 }
 
 /* text-sizes */
