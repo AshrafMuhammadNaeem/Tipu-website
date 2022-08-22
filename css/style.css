@@ -6,7 +6,7 @@
     --primary-color: #23fcb5;
     --secondary-color: #52ffc6;
     --light-color: #b3ffe6;
-    --dark-color: #2dbdfb;
+    --dark-color: #4c2dfb;
 
 
 }
@@ -349,4 +349,26 @@ header{
 .bg-dark,
 .btn-dark{
     background-color: var(--dark-color);
+}
+
+/* text-sizes */
+
+.lead{
+    font-size: 20px;
+}
+
+.sm{
+    font-size: 1rem;
+}
+
+.md{
+    font-size: 2rem;
+}
+
+.lg{
+    font-size: 3rem;
+}
+
+.xl{
+    font-size: 4rem;
 }
