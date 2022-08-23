@@ -349,6 +349,12 @@ header{
     background-color: var(--error-color);
     color: white;
 }
+
+code, pre{
+    background: #333;
+    color: #fff;
+    padding: 10px;
+}
 /* stats utilities */
 .text-center{
     text-align: center;
