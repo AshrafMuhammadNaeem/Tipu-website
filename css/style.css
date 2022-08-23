@@ -302,6 +302,10 @@ header{
     
 }
 
+.docs-main h3{
+    margin: 20px 0;
+}
+
 /* stats utilities */
 .text-center{
     text-align: center;
