@@ -296,6 +296,12 @@ header{
 
 }
 
+/* Docs */
+.docs-head img{
+    width: 200px;
+    
+}
+
 /* stats utilities */
 .text-center{
     text-align: center;
