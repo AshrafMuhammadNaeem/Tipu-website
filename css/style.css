@@ -281,6 +281,11 @@ header{
     justify-self: flex-end;
 }
 
+/* Feature-main */
+.features-main .card > i{
+    margin-right: 20px;
+}
+
 /* stats utilities */
 .text-center{
     text-align: center;
