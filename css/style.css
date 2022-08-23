@@ -311,6 +311,20 @@ header{
     align-items: flex-start;
 }
 
+.docs-main .bg-light li{
+    font-size: 17px;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid black;
+}
+
+
+.docs-main a:hover{
+    font-weight: bold;
+}
+.docs-main h3{
+    margin-left: 5px;
+}
 /* stats utilities */
 .text-center{
     text-align: center;
