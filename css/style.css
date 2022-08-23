@@ -109,6 +109,18 @@ header{
     font-size: 35px;
 }
 
+/* animation */
+
+.showtext-text{
+    animation: slideInFromLeft 1s ease-in;
+}
+.showtext-form{
+    animation: slideInFromRight 1s ease-in;
+}
+
+.stats{
+    animation: slideInFromBottom 1s ease-in;
+}
 /* style the form inside of it that has dive with class name showtext-form*/
 .showtext-form{
     position: relative;
@@ -535,6 +547,7 @@ code, pre{
     .showtext-form{
         justify-self: center;
         margin: auto;
+        animation: slideInFromBottom 1s ease-in;
     }
 
     .showtext{
@@ -544,6 +557,7 @@ code, pre{
     .showtext-text{
         text-align: center;
         margin-top: 30px;
+        animation: slideInFromTop 1s ease-in;
     }
 
     .cli .grid > *:first-child{
