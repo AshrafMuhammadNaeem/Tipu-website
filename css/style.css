@@ -269,6 +269,13 @@ header{
     transform: translateY(-16px);
 }
 
+/* Features page */
+
+.features-head img{
+    width: 200px;
+    flex-direction: row;
+}
+
 /* stats utilities */
 .text-center{
     text-align: center;
