@@ -332,6 +332,10 @@ header{
     font-weight: bold;
     margin: 15px 0;
 }
+
+.alert i{
+    margin-right: 10px;
+}
 /* stats utilities */
 .text-center{
     text-align: center;
