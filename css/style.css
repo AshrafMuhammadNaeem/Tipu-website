@@ -276,6 +276,11 @@ header{
     
 }
 
+.features-sub-head img{
+    width: 350px;
+    justify-self: flex-end;
+}
+
 /* stats utilities */
 .text-center{
     text-align: center;
